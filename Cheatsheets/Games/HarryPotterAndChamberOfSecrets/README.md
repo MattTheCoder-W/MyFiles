@@ -12,9 +12,11 @@ Set-ExecutionPolicy Bypass -Scope Process -Force;
 
 Do not close `PowerShell` window until whole installation process is finished!
 
+You can get game files from [here](https://mega.nz/file/imwwHY5B#Tan6NDBkHcpJObKU8uA36BwpYhu51rFFbhRPqu946D4).
+
 ## Automatic Installation (recommended)
 
-Download [installation script]().
+Download [installation script](https://github.com/MattTheCoder-W/MyFiles/blob/main/Cheatsheets/Games/HarryPotterAndChamberOfSecrets/install.ps1).
 
 To automatically install game run:
 
@@ -25,8 +27,6 @@ To automatically install game run:
 Make sure the encrypted archive is in the same directory as install script.
 
 ## Manual Installation
-
-You can get game files from [here](https://mega.nz/file/imwwHY5B#Tan6NDBkHcpJObKU8uA36BwpYhu51rFFbhRPqu946D4).
 
 ### Dependencies
 
