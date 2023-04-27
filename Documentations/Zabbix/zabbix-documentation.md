@@ -90,7 +90,10 @@ Zabbix udostępnia gotowy skrypt do tworzenia struktury bazy danych który zosta
 
 `zcat /usr/share/zabbix-sql-scripts/mysql/server.sql.gz | mysql --default-character-set=utf8mb4 -u zabbix -p zabbix`
 
+
 Należy podać hasło dla użytkownika `zabbix`, w przypadku dokumentacji jest to `password`.
+
+*UWAGA* Powyższe polecenie może zająć ok. kilku minut aby się zakończyć! NIE NALEŻY PRZERYWAĆ WYKONANIA TEGO POLECENIA, GROZI TO USZKODZENIEM BAZY DANYCH.
 
 #### Zakończenie konfiguracji bazy danych
 
