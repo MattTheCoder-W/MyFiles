@@ -124,3 +124,11 @@ Jeżeli pojawia się błąd wskazujący na to że apache2 nie istnieje należy z
 Należy wejść na adres maszyny zabbixowej w przeglądarce z dopiskiem `/zabbix`.
 
 np. `http://127.0.0.1/zabbix` lub `http://192.168.1.10/zabbix`
+
+## Częste problemy
+
+### Bład architektury `i386`
+
+![error](https://user-images.githubusercontent.com/76630571/234982000-402154cc-8093-4c5b-a0ec-2a2d1b9c01c8.png)
+
+![fix](https://user-images.githubusercontent.com/76630571/234982066-d0f0a16b-7b74-44f5-9317-b02eff74322f.png)
