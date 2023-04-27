@@ -129,6 +129,12 @@ np. `http://127.0.0.1/zabbix` lub `http://192.168.1.10/zabbix`
 
 ### Bład architektury `i386`
 
+#### Treść błędu
+
 ![error](https://user-images.githubusercontent.com/76630571/234982000-402154cc-8093-4c5b-a0ec-2a2d1b9c01c8.png)
 
-![fix](https://user-images.githubusercontent.com/76630571/234982066-d0f0a16b-7b74-44f5-9317-b02eff74322f.png)
+#### Rozwiązanie
+
+Należy w pliku `/etc/apt/sources.list.d/zabbix.list` zmienić linijki aby wyglądały w następujący sposób:
+
+![fix](https://user-images.githubusercontent.com/76630571/234983093-fce6858b-f687-49c7-8a9c-e2c5dd1a1716.png)
