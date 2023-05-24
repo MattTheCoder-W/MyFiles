@@ -138,3 +138,10 @@ np. `http://127.0.0.1/zabbix` lub `http://192.168.1.10/zabbix`
 Należy w pliku `/etc/apt/sources.list.d/zabbix.list` zmienić linijki aby wyglądały w następujący sposób:
 
 ![fix](https://user-images.githubusercontent.com/76630571/234983093-fce6858b-f687-49c7-8a9c-e2c5dd1a1716.png)
+
+# Autorzy
+
+Autorami dokumentacji są:
+
+ - Mateusz W. 4hsp
+ - Hubert W. 4hsp
